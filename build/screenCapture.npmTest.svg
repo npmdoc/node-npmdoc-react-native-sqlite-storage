@@ -7,7 +7,7 @@
 <tspan x="10" y="74">&gt; (set -e; export PORT=$(utility2 shServerPortRandom); utility2 test test.js)</tspan>
 <tspan x="10" y="90"></tspan>
 <tspan x="10" y="106"></tspan>
-<tspan x="10" y="122">[MODE_BUILD=npmTest] - 2017-04-07T10:45:41Z - npm-testing /home/travis/build/npmdoc/node-npmdoc-\</tspan>
+<tspan x="10" y="122">[MODE_BUILD=npmTest] - 2017-04-07T10:48:35Z - npm-testing /home/travis/build/npmdoc/node-npmdoc-\</tspan>
 <tspan x="10" y="138">react-native-sqlite-storage</tspan>
 <tspan x="10" y="154"></tspan>
 <tspan x="10" y="170"></tspan>
@@ -15,48 +15,48 @@
 <tspan x="10" y="202">c-react-native-sqlite-storage/test.js</tspan>
 <tspan x="10" y="218">merging file:///home/travis/build/npmdoc/node-npmdoc-react-native-sqlite-storage/tmp/build/test-\</tspan>
 <tspan x="10" y="234">report.json to test-report</tspan>
-<tspan x="10" y="250">&gt; server listening on http-port 56294</tspan>
+<tspan x="10" y="250">&gt; server listening on http-port 49255</tspan>
 <tspan x="10" y="266">created apidoc file:///home/travis/build/npmdoc/node-npmdoc-react-native-sqlite-storage/tmp/buil\</tspan>
 <tspan x="10" y="282">d/apidoc.html</tspan>
 <tspan x="10" y="298"></tspan>
 <tspan x="10" y="314"></tspan>
 <tspan x="10" y="330">browserTest - created electron entry-page /home/travis/build/npmdoc/node-npmdoc-react-native-sql\</tspan>
-<tspan x="10" y="346">ite-storage/tmp/electron.15b48050e6e0.abd6b26a2d042.html</tspan>
+<tspan x="10" y="346">ite-storage/tmp/electron.15b4807b4360.f1b37505fc39d.html</tspan>
 <tspan x="10" y="362"></tspan>
 <tspan x="10" y="378">[node test-case 1 of 6 passed] - testCase_buildLib_default</tspan>
 <tspan x="10" y="394">[node test-case 2 of 6 passed] - testCase_buildReadme_default</tspan>
 <tspan x="10" y="410">[node test-case 3 of 6 passed] - testCase_buildTest_default</tspan>
-<tspan x="10" y="426">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
-<tspan x="10" y="442"></tspan>
-<tspan x="10" y="458">browserTest - created electron entry-page /home/travis/build/npmdoc/node-npmdoc-react-native-sql\</tspan>
-<tspan x="10" y="474">ite-storage/tmp/electron.15b48050edb0.16ee2bd662b17.html</tspan>
-<tspan x="10" y="490"></tspan>
+<tspan x="10" y="426"></tspan>
+<tspan x="10" y="442">browserTest - created electron entry-page /home/travis/build/npmdoc/node-npmdoc-react-native-sql\</tspan>
+<tspan x="10" y="458">ite-storage/tmp/electron.15b4807b47c0.1ab7a910244e7.html</tspan>
+<tspan x="10" y="474"></tspan>
+<tspan x="10" y="490">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
 <tspan x="10" y="506">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
 <tspan x="10" y="522">merging file:///home/travis/build/npmdoc/node-npmdoc-react-native-sqlite-storage/tmp/build/test-\</tspan>
 <tspan x="10" y="538">report.json to test-report</tspan>
 <tspan x="10" y="554">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
-<tspan x="10" y="570">[4965:0407/104543:WARNING:audio_manager.cc(314)] Multiple instances of AudioManager detected</tspan>
-<tspan x="10" y="586">[4965:0407/104543:WARNING:audio_manager.cc(275)] Multiple instances of AudioManager detected</tspan>
-<tspan x="10" y="602">&gt; [5004:0407/104543:ERROR:sandbox_linux.cc(343)] InitializeSandbox() called with multiple thread\</tspan>
-<tspan x="10" y="618">s in process gpu-process. </tspan>
-<tspan x="10" y="634">server listening on http-port 50366</tspan>
-<tspan x="10" y="650">[4965:0407/104543:ERROR:browser_gpu_channel_host_factory.cc(131)] Failed to create channel.</tspan>
-<tspan x="10" y="666"></tspan>
-<tspan x="10" y="682">browserTest - opened url /home/travis/build/npmdoc/node-npmdoc-react-native-sqlite-storage/tmp/b\</tspan>
-<tspan x="10" y="698">uild/apidoc.html</tspan>
-<tspan x="10" y="714"></tspan>
-<tspan x="10" y="730">merging file:///home/travis/build/npmdoc/node-npmdoc-react-native-sqlite-storage/tmp/build/test-\</tspan>
-<tspan x="10" y="746">report.json to test-report</tspan>
-<tspan x="10" y="762">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
-<tspan x="10" y="778">[4978:0407/104544:WARNING:audio_manager.cc(314)] Multiple instances of AudioManager detected</tspan>
-<tspan x="10" y="794">[4978:0407/104544:WARNING:audio_manager.cc(275)] Multiple instances of AudioManager detected</tspan>
-<tspan x="10" y="810">[5049:0407/104544:ERROR:sandbox_linux.cc(343)] InitializeSandbox() called with multiple threads \</tspan>
-<tspan x="10" y="826">in process gpu-process. </tspan>
-<tspan x="10" y="842">[4978:0407/104544:ERROR:browser_gpu_channel_host_factory.cc(131)] Failed to create channel.</tspan>
+<tspan x="10" y="570">[6110:0407/104836:WARNING:audio_manager.cc(314)] Multiple instances of AudioManager detected</tspan>
+<tspan x="10" y="586">[6110:0407/104836:WARNING:audio_manager.cc(275)] Multiple instances of AudioManager detected</tspan>
+<tspan x="10" y="602">[6139:0407/104837:ERROR:sandbox_linux.cc(343)] InitializeSandbox() called with multiple threads \</tspan>
+<tspan x="10" y="618">in process gpu-process. </tspan>
+<tspan x="10" y="634">merging file:///home/travis/build/npmdoc/node-npmdoc-react-native-sqlite-storage/tmp/build/test-\</tspan>
+<tspan x="10" y="650">report.json to test-report</tspan>
+<tspan x="10" y="666">&gt; server listening on http-port 61726</tspan>
+<tspan x="10" y="682">[6110:0407/104837:ERROR:browser_gpu_channel_host_factory.cc(131)] Failed to create channel.</tspan>
+<tspan x="10" y="698">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
+<tspan x="10" y="714">[6114:0407/104837:WARNING:audio_manager.cc(314)] Multiple instances of AudioManager detected</tspan>
+<tspan x="10" y="730">[6114:0407/104837:WARNING:audio_manager.cc(275)] Multiple instances of AudioManager detected</tspan>
+<tspan x="10" y="746">[6187:0407/104837:ERROR:sandbox_linux.cc(343)] InitializeSandbox() called with multiple threads \</tspan>
+<tspan x="10" y="762">in process gpu-process. </tspan>
+<tspan x="10" y="778">[6114:0407/104837:ERROR:browser_gpu_channel_host_factory.cc(131)] Failed to create channel.</tspan>
+<tspan x="10" y="794"></tspan>
+<tspan x="10" y="810">browserTest - opened url /home/travis/build/npmdoc/node-npmdoc-react-native-sqlite-storage/tmp/b\</tspan>
+<tspan x="10" y="826">uild/apidoc.html</tspan>
+<tspan x="10" y="842"></tspan>
 <tspan x="10" y="858"></tspan>
-<tspan x="10" y="874">browserTest - opened url http://127.0.0.1:56294?modeTest=1</tspan>
+<tspan x="10" y="874">browserTest - opened url http://127.0.0.1:49255?modeTest=1</tspan>
 <tspan x="10" y="890"></tspan>
-<tspan x="10" y="906">[4978:0407/104546:INFO:CONSOLE(250)] "----------|-----------|-----------|-----------|-----------\</tspan>
+<tspan x="10" y="906">[6114:0407/104839:INFO:CONSOLE(250)] "----------|-----------|-----------|-----------|-----------\</tspan>
 <tspan x="10" y="922">|</tspan>
 <tspan x="10" y="938">File      |   % Stmts |% Branches |   % Funcs |   % Lines |</tspan>
 <tspan x="10" y="954">----------|-----------|-----------|-----------|-----------|</tspan>
@@ -64,10 +64,10 @@
 <tspan x="10" y="986">All files |       100 |       100 |       100 |       100 |</tspan>
 <tspan x="10" y="1002">----------|-----------|-----------|-----------|-----------|</tspan>
 <tspan x="10" y="1018">", source: file:///home/travis/build/npmdoc/node-npmdoc-react-native-sqlite-storage/tmp/electron\</tspan>
-<tspan x="10" y="1034">.15b48050edb0.16ee2bd662b17.html (250)</tspan>
-<tspan x="10" y="1050">[4978:0407/104546:INFO:CONSOLE(250)] "created coverage file:///tmp/build/coverage.html/index.htm\</tspan>
+<tspan x="10" y="1034">.15b4807b47c0.1ab7a910244e7.html (250)</tspan>
+<tspan x="10" y="1050">[6114:0407/104839:INFO:CONSOLE(250)] "created coverage file:///tmp/build/coverage.html/index.htm\</tspan>
 <tspan x="10" y="1066">l", source: file:///home/travis/build/npmdoc/node-npmdoc-react-native-sqlite-storage/tmp/electro\</tspan>
-<tspan x="10" y="1082">n.15b48050edb0.16ee2bd662b17.html (250)</tspan>
+<tspan x="10" y="1082">n.15b4807b47c0.1ab7a910244e7.html (250)</tspan>
 <tspan x="10" y="1098">[node test-case 4 of 6 passed] - testCase_buildApp_default</tspan>
 <tspan x="10" y="1114"></tspan>
 <tspan x="10" y="1130">browserTest - created screenCapture file:///home/travis/build/npmdoc/node-npmdoc-react-native-sq\</tspan>
@@ -89,7 +89,7 @@
 <tspan x="10" y="1386">browserTest - created screenCapture file:///home/travis/build/npmdoc/node-npmdoc-react-native-sq\</tspan>
 <tspan x="10" y="1402">lite-storage/tmp/build/screenCapture.npmTest.browser..html</tspan>
 <tspan x="10" y="1418"></tspan>
-<tspan x="10" y="1434">browserTest - exit-code 0 - http://127.0.0.1:56294?modeTest=1</tspan>
+<tspan x="10" y="1434">browserTest - exit-code 0 - http://127.0.0.1:49255?modeTest=1</tspan>
 <tspan x="10" y="1450"></tspan>
 <tspan x="10" y="1466"></tspan>
 <tspan x="10" y="1482">browserTest - merged coverage from /home/travis/build/npmdoc/node-npmdoc-react-native-sqlite-sto\</tspan>
@@ -127,8 +127,8 @@
 <tspan x="10" y="1994">report.json to test-report</tspan>
 <tspan x="10" y="2010"></tspan>
 <tspan x="10" y="2026">-------------------------------------------------------</tspan>
-<tspan x="10" y="2042">| test-report - buildNpmdoc - node - linux v6.10.2 - 2017-04-07T10:45:18.772Z</tspan>
-<tspan x="10" y="2058">|   38485 ms            0 failed        6 passed      |</tspan>
+<tspan x="10" y="2042">| test-report - buildNpmdoc - node - linux v6.10.2 - 2017-04-07T10:47:14.909Z</tspan>
+<tspan x="10" y="2058">|   95288 ms            0 failed        6 passed      |</tspan>
 <tspan x="10" y="2074">-------------------------------------------------------</tspan>
 <tspan x="10" y="2090"></tspan>
 <tspan x="10" y="2106">created test-report file:///home/travis/build/npmdoc/node-npmdoc-react-native-sqlite-storage/tmp\</tspan>
@@ -138,6 +138,6 @@
 <tspan x="10" y="2170">npmTest - 0 failed tests</tspan>
 <tspan x="10" y="2186"></tspan>
 <tspan x="10" y="2202"></tspan>
-<tspan x="10" y="2218">[MODE_BUILD=npmTest] - 2017-04-07T10:46:01Z - EXIT_CODE - 0</tspan>
+<tspan x="10" y="2218">[MODE_BUILD=npmTest] - 2017-04-07T10:48:54Z - EXIT_CODE - 0</tspan>
 </text>
 </svg>
