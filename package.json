@@ -1,17 +1,40 @@
 {
-    "buildNpmdoc":"react-native-sqlite-storage",
+    "author": "kai zhu <kaizhu256@gmail.com>",
+    "buildNpmdoc": "react-native-sqlite-storage",
+    "description": "api documentation for [react-native-sqlite-storage (v3.2.2)](https://github.com/andpor/react-native-sqlite-storage) [![npm package](https://img.shields.io/npm/v/npmdoc-react-native-sqlite-storage.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-react-native-sqlite-storage) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-react-native-sqlite-storage.svg)](https://travis-ci.org/npmdoc/node-npmdoc-react-native-sqlite-storage)",
     "devDependencies": {
-        "react-native-sqlite-storage": "*",
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
+        "react-native-sqlite-storage": "*",
         "utility2": "kaizhu256/node-utility2#alpha"
     },
-    "name":"npmdoc-react-native-sqlite-storage",
+    "engines": {
+        "node": ">=4.0"
+    },
+    "homepage": "https://github.com/npmdoc/node-npmdoc-react-native-sqlite-storage",
+    "keywords": [
+        "documentation",
+        "react-native-sqlite-storage"
+    ],
+    "license": "MIT",
+    "main": "lib.npmdoc_react_native_sqlite_storage.js",
+    "name": "npmdoc-react-native-sqlite-storage",
+    "nameAlias": "npmdoc_react_native_sqlite_storage",
+    "nameOriginal": "npmdoc-react-native-sqlite-storage",
+    "os": [
+        "darwin",
+        "linux"
+    ],
     "repository": {
         "type": "git",
         "url": "https://github.com/npmdoc/node-npmdoc-react-native-sqlite-storage"
     },
     "scripts": {
-        "build-ci": "utility2 shReadmeTest build_ci.sh"
+        "build-ci": "utility2 shReadmeTest build_ci.sh",
+        "env": "env",
+        "heroku-postbuild": "(set -e; npm install \"kaizhu256/node-utility2#alpha\"; utility2 shDeployHeroku)",
+        "postinstall": "if [ -f npm_scripts.sh ]; then ./npm_scripts.sh postinstall; fi",
+        "start": "(set -e; export PORT=${PORT:-8080}; utility2 start test.js)",
+        "test": "(set -e; export PORT=$(utility2 shServerPortRandom); utility2 test test.js)"
     },
     "version": "0.0.1"
 }
