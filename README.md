@@ -1,9 +1,14 @@
-# api documentation for  [react-native-sqlite-storage (v3.2.2)](https://github.com/andpor/react-native-sqlite-storage)  [![npm package](https://img.shields.io/npm/v/npmdoc-react-native-sqlite-storage.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-react-native-sqlite-storage) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-react-native-sqlite-storage.svg)](https://travis-ci.org/npmdoc/node-npmdoc-react-native-sqlite-storage)
+# npmdoc-react-native-sqlite-storage
+
+#### api documentation for  [react-native-sqlite-storage (v3.2.2)](https://github.com/andpor/react-native-sqlite-storage)  [![npm package](https://img.shields.io/npm/v/npmdoc-react-native-sqlite-storage.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-react-native-sqlite-storage) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-react-native-sqlite-storage.svg)](https://travis-ci.org/npmdoc/node-npmdoc-react-native-sqlite-storage)
+
 #### SQLite3 bindings for React Native (Android & iOS)
 
-[![NPM](https://nodei.co/npm/react-native-sqlite-storage.png?downloads=true)](https://www.npmjs.com/package/react-native-sqlite-storage)
+[![NPM](https://nodei.co/npm/react-native-sqlite-storage.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/react-native-sqlite-storage)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-react-native-sqlite-storage/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-react-native-sqlite-storage_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-react-native-sqlite-storage/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-react-native-sqlite-storage/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-react-native-sqlite-storage/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-react-native-sqlite-storage/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-react-native-sqlite-storage/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-react-native-sqlite-storage/build/screenCapture.npmPackageListing.svg)
 
@@ -52,8 +57,7 @@
     "main": "sqlite.js",
     "maintainers": [
         {
-            "name": "andpor",
-            "email": "fkuciapa@yahoo.com"
+            "name": "andpor"
         }
     ],
     "name": "react-native-sqlite-storage",
@@ -61,7 +65,6 @@
     "peerDependencies": {
         "react-native": ">=0.14.0"
     },
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/andpor/react-native-sqlite-storage.git"
@@ -80,16 +83,6 @@
     "version": "3.2.2"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module react-native-sqlite-storage](#apidoc.module.react-native-sqlite-storage)
-
-
-
-# <a name="apidoc.module.react-native-sqlite-storage"></a>[module react-native-sqlite-storage](#apidoc.module.react-native-sqlite-storage)
 
 
 
